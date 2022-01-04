@@ -1,0 +1,4 @@
+[submodule "sessions/2022"]
+	path = sessions/2022
+	url = git@github.com:fmichaud/fr-cyu-lpdw-2022.git
+	branch = main
